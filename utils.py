@@ -15,9 +15,9 @@ if not os.path.exists("logs"):
     os.makedirs("logs")
 
 MAIN_JSON_PATH = "info.json"
-if not os.path.exists(MAIN_JSON_PATH):
-    with open(MAIN_JSON_PATH, "w") as f:
-        json.dump(dict(), f)
+# if not os.path.exists(MAIN_JSON_PATH):
+#     with open(MAIN_JSON_PATH, "w") as f:
+#         json.dump(dict(), f)
 
     
 def pprint(*text):

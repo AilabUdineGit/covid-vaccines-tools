@@ -1,5 +1,9 @@
 # Project-specific rules
 CREDENTIALS.py
+tmp_dataframes
+entity_translation.*
+locations.*
+output_dataframe.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
