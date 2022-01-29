@@ -10,11 +10,11 @@
 
 Repository containing the code and data used for the interactive dashboard http://ailab.uniud.it/covid-vaccines/.
 
-<details><summary>
+
 
 ## Setup
 
-</summary>
+
 
 ### Environment setup
 
@@ -57,13 +57,13 @@ The pretrained model to predict the symptoms contained in the tweets is managed 
 model/ML4H_blind_smm4h_BERT_CRF/config.json
 model/ML4H_blind_smm4h_BERT_CRF/pytorch_model.bin
 ```
-</details>
 
-<details><summary>
+
+
 
 ## How to use
     
-</summary>
+
 
 Our collected and processed data can be found in `full_db.pkl` (and in the human-readable copy `full_db.csv`).
 Data collection is still in progress and the data in the repository will be updated regularly.
@@ -104,13 +104,13 @@ Format
     +-----------------+----------------------------------------------------------------------------
 
     
-</details>
 
-<details><summary>
+
+
 
 ## How to run on your own
 
-</summary>
+
 
 Run `full_pipeline.py` if you want to collect and analyze tweets on your own.
 
@@ -149,4 +149,4 @@ entities
 - locations.csv
   <br> Human-readable version of locations.pkl in csv format. This file is never read by the script.
 
-</details>
+
