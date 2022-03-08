@@ -104,7 +104,7 @@ Waterfowler365,0,0,[],[],1377424423519592450,41927827,2021-04-01
 johnndavis,0,-1,[],[],1377424498698285058,29905232,2021-04-01
 ancpublichealth,0,1,[],[],1377424820913106944,4116084852,2021-04-01
 vubblePOP,0,0,[],[],1377425176321687552,2722503240,2021-04-01
-JayGarc9601699,0,-1,"['faint', 'get dizzy']","['dizzy', 'faint']",1388282401911148545,736196973364027392,2021-05-01
+JayGarc9601699,0,-1,"['faint', 'dizzy']","['dizzy', 'faint']",1388282401911148545,736196973364027392,2021-05-01
 GenBioUSA,0,-1,['Couldn’t breathe'],"['n’t breathe', 'Could']",1388286566217359360,1129062072862437377,2021-05-01
 KTAR923,0,0,[],[],1388282016823709699,18563796,2021-05-01
 citynb,0,0,[],[],1388282016836329476,259810247,2021-05-01
@@ -230,7 +230,7 @@ stevendamron,0,0,[],[],1354741193859608577,7417202,2021-01-28
 DisneyDude3,1,1,[],[],1354067246067408898,1291846749288566784,2021-01-26
 13OnYourSide,0,0,[],[],1348609499825905666,18813972,2021-01-11
 KirkChris,-1,-1,[],[],1344947380567863297,60853683,2021-01-01
-Neil_HW_,1,0,"['pale', 'rubish', 'Arm is feeling bruised and feeling queasy']","['queasy', 'bruised', 'rubish', 'pale']",1363766188208254977,1167069435485724673,2021-02-22
+Neil_HW_,1,0,"['pale', 'rubish', 'Arm is feeling bruised', 'queasy']","['queasy', 'bruised', 'rubish', 'pale']",1363766188208254977,1167069435485724673,2021-02-22
 JonathanDaRebel,-1,0,[],[],1366106254825967621,1344295447180025856,2021-02-28
 Cadders68,-1,-1,[],[],1359781128354283522,19618624,2021-02-11
 markpoloncarz,1,1,[],[],1360603687870169090,45490102,2021-02-13
@@ -339,7 +339,7 @@ fredwalton216,0,-1,[],[],1410192035924135942,2567292679,2021-06-30
 iWeller_health,0,0,[],[],1400312388209954820,728894570,2021-06-03
 DANIELOLESAMBU,0,0,[],[],1405128061138448388,324338402,2021-06-16
 tealwillingham,-1,-1,[],[],1406766776751251457,98317129,2021-06-21
-CMOH_Alberta,0,-1,"['rare heart inflammation', 'heart inflammation']",[],1410000867181285377,1239656978495856641,2021-06-29
+CMOH_Alberta,0,-1,"['rare heart inflammation', 'heart inflammation f']",[],1410000867181285377,1239656978495856641,2021-06-29
 buddhabookclub,0,0,[],[],1399974950866284544,1337754019163496450,2021-06-02
 marortoll,0,0,[],[],1399985512115408903,870862447057313792,2021-06-02
 ArtEllis7,-1,-1,[],[],1400558171366821891,1393228119394422786,2021-06-03
@@ -399,6 +399,106 @@ kanarsevon,-1,-1,[],[],1433591869368373255,700603156930158593,2021-09-03
 GaCharityCare,0,1,[],[],1433850518930173952,747681780,2021-09-03
 maniac_musings,0,1,[],[],1432924705397297155,943908872716148736,2021-09-01
 cj_czechy,0,-1,[],[],1433690917123280908,429415267,2021-09-03
+alisonfletch1,-1,-1,"['severe neurological symptoms', 'transverse myelitis', 'rare inflammation of the spinal cord']",['neurological'],1337492242215399424,857848934756212736,2020-12-11
+Snoozette1,-1,-1,[],['faint'],1337588056845594624,826872000425631744,2020-12-12
+osamashahuk,-1,-1,[],"['sore throat', 'lost my sense of taste']",1344820682673291264,3040755790,2021-01-01
+Alexismaxinee11,-1,-1,['injection site soreness'],"['sore.', 'soreness']",1344830709299638283,355836242,2021-01-01
+BlackSheepWoke,-1,-1,[],['immunity'],1344833890968621057,3251064618,2021-01-01
+sergioshorts,-1,0,"['soreness in my arm', 'fatigue also hit hard', 'napped a lot', 'some soreness']","['fatigue', 'soreness in', 'arm', 'napped', 'me soreness']",1344838280299204609,21517741,2021-01-01
+Vespuccio,-1,-1,['Monsterism'],['Monsterism'],1344843683611299840,826167073864716288,2021-01-01
+Karim_Adatia,-1,-1,[],['exhausting'],1356046871291068416,497338980,2021-02-01
+MongoFree,0,-1,[],['prevent individuals from seeing God'],1356050206131843075,1096522836007473152,2021-02-01
+docdeb8,0,-1,[],"['is flat', 'from seeing God', 'the sky is', 'shield', 'a', 'prevent']",1356055714431725575,1350292776076931073,2021-02-01
+Lightworker4God,1,0,[],['nervous'],1356057176788267012,240886252,2021-02-01
+whatdivawants,1,1,"['Minor fever', 'body aches']","['body aches', 'fever']",1366191239893237767,67380110,2021-03-01
+JeffreyZison,-1,-1,[],['on a sinking ship in the middle of the sea'],1366194705814478851,1351909202890022916,2021-03-01
+WTNH,1,1,[],['temp'],1366200181281193990,14262811,2021-03-01
+RolandBakerIII,0,0,[],['immune'],1366201588226777091,69441276,2021-03-01
+cyclelicious,0,-1,['Fever'],['Fever'],1366202298028806144,1201261,2021-03-01
+economics,0,0,[],['pandemic'],1366214029660868616,144274618,2021-03-01
+PamSales1,0,1,['sore arm'],"['sore arm', 'he sore']",1366214030122250243,381775509,2021-03-01
+pierrelemoine88,-1,-1,['Agonizing Rash'],"['Rash', 'pain']",1377440075340910594,1329641741083926528,2021-04-01
+Theconnecting,-1,-1,['agonizing rash'],['agonizing'],1377442686551080964,175170717,2021-04-01
+TheNameIsDusty,-1,1,"['Arm is tender', 'I had 1 light beer on a somewhat empty stomach', 'mildly buzzed and cut that in half']","['Arm is tender', 'felt like I had 1 light beer on a', 'sick', 'empty stomach']",1377443797488001025,941345680840384512,2021-04-01
+BezosPostNews,0,-1,[],['immune'],1377445352488398851,1282824219399647232,2021-04-01
+eddiefreshly,1,0,[],['hesitancy'],1377448332923047936,763869836900532225,2021-04-01
+halffootrunner,0,-1,['blood clots'],['sickened'],1377450619787698181,233829322,2021-04-01
+MaryAustinBooks,0,0,[],['sick'],1377457851757514756,1282003514185510912,2021-04-01
+WandS_Headlines,-1,-1,"['Agonizing Red Rash', 'Pain']","['Red Rash', 'Pain']",1377460129558368257,2870008455,2021-04-01
+teymoornabili,-1,-1,[],"['physical', 'mental status']",1388289869915430912,199597963,2021-05-01
+KarenGrassi1,1,1,"['chills', 'fever', 'arm was sore']","['arm was sore', 'fever', 'chills']",1388292626571579394,1341935640859078657,2021-05-01
+NickESmithNYC,1,0,['side effect'],['immune system'],1388296235853955072,98527416,2021-05-01
+3dayzofsummer,-1,-1,[],['killing'],1388296885618679813,44805811,2021-05-01
+CecelyV,1,1,['sore'],"['sore', 'felt', 'poke', 'arm']",1388298936646094852,155749180,2021-05-01
+JulieCJOB,0,0,[],['immune response'],1399549453137113088,857665802236866561,2021-06-01
+iamAA2014,-1,-1,['lost their life'],['lost'],1399557891758067713,1349699566224900096,2021-06-01
+NavroopSingh_,0,0,[],"['tweaking', 'mulls']",1399564330698297350,313385516,2021-06-01
+VicenzaVeneto,0,-1,['clots'],['clots'],1399564335664435200,1217324800122638336,2021-06-01
+aspiring_bougie,1,0,[],['clot'],1410404755168546820,1023164192721854464,2021-07-01
+ClockUponWall,0,-1,[],"['immune systems', 'weaken']",1410405044281692160,961357358,2021-07-01
+thejoezaza,-1,-1,[],"['bloated', 'survivability']",1410405947625836544,533385998,2021-07-01
+daysalusion,-1,-1,"['head hurt', 'nauseous', 'can’t lift my arm']","['can’t lift my arm', 'head hurt', 'nauseous']",1410406505065725954,888540790141702146,2021-07-01
+r3lyk5,-1,0,[],['Hughesy'],1410412847511736322,1024940504541093888,2021-07-01
+KidCreole3,0,0,[],"['vains', 'immune']",1421638771943133186,1260252311579836421,2021-08-01
+tsobotta,-1,-1,[],"['sick', 'irresponsible']",1421639149400981507,42748545,2021-08-01
+CristyNa_87,-1,-1,[],['cold'],1421641480209371139,1119326042475380736,2021-08-01
+gardene05624327,-1,-1,[],['in'],1421643121553678341,1070446708255948800,2021-08-01
+ForeverTrue10,-1,-1,[],['poison'],1421644306247421954,1090716128479825922,2021-08-01
+MMalachi,-1,-1,[],['steal the supply'],1432860270725148675,50148845,2021-09-01
+vision_times,-1,-1,[],['jabs'],1432863273536290823,1390598081956126723,2021-09-01
+RestoreAcct,-1,-1,[],['circumference'],1432871256093724674,1412787044040855556,2021-09-01
+GeorgesSalo,0,1,[],['immune'],1432876436499484686,3314066105,2021-09-01
+sirjackwindsor,-1,-1,"['died', 'headaches']",['headaches'],1432893723659079684,539035503,2021-09-01
+TinaTago1,0,0,[],['survivability'],1337786457491173378,831892840385040386,2020-12-12
+ScvWatcher,-1,-1,[],['like s***'],1337797410890764289,867766604846702597,2020-12-12
+warrioroftrut,0,-1,['allergic reactions'],['allergic reactions'],1344870531946991617,832861190,2021-01-01
+KidsCharity3,0,-1,[],"['anaphylaxis', 'allergic reactions']",1344875788747874305,908289019716435973,2021-01-01
+KidsCharity3,0,-1,"['anaphylactic reaction', ' tongue became numb', 'blood pressure plummeted']","['blood pressure plummeted', 'tongue became numb']",1344876519408209922,908289019716435973,2021-01-01
+KTVZ,-1,-1,['allergic reaction'],['allergic reaction'],1344881075454177280,25451167,2021-01-01
+ofcherrie,1,1,"['knot', 'muscle soreness', 'itch']","['muscle soreness', 'knot', 'itch']",1344896710699438082,4608088094,2021-01-01
+issa_alsaher,-1,-1,"['Death', 'Fever']","['irresponsible', 'Fever', 'Death']",1356080612625448965,1038016903,2021-02-01
+pmbutterfly,-1,-1,[],['alters your dna'],1356085866926632960,137403143,2021-02-01
+D_Shelf,0,0,[],['inside'],1356086057624883201,19744043,2021-02-01
+AdHominemIzBad,-1,-1,[],['sleep at night'],1356087568773898246,4898430810,2021-02-01
+chewmela,-1,-1,[],"['succumbed', 'hitting it dry']",1366238743343075329,256902959,2021-03-01
+TheRMH,1,1,[],"['felt nothing', 'feel cold']",1366242634944053250,28722856,2021-03-01
+IamkingEdwards,1,1,"['headache', 'fatigue￼']","['fatigue', 'headache']",1366243520294641667,1185049765014319104,2021-03-01
+Daring_Paula,-1,-1,[],"['headache', 'lupus', 'joint pain']",1366246203680321536,2505374476,2021-03-01
+1228erin,0,0,['heart failure'],['heart failure'],1366254584507867137,874689614,2021-03-01
+bhoang08,-1,-1,[],['moronic'],1366257600967421957,1224392530617389061,2021-03-01
+EdselSalvana,1,1,['Arm hurts'],['Arm hurts'],1366257936872271872,3138945535,2021-03-01
+Irene__Ke,0,0,[],['immunity'],1377501668900737026,1245972697370288130,2021-04-01
+SWCGMC,0,-1,['Chills'],['Chills'],1377512770657263621,1366866577149349894,2021-04-01
+endaguinan,1,1,['*burning* up'],"['saturated', 'burning* up']",1377514958385258496,1208951,2021-04-01
+ExMark19r,-1,-1,['Convulsions'],['Convulsions'],1377517775988518921,1250125705100156928,2021-04-01
+IronicAlgorithm,-1,-1,[],['weary'],1377518617709907971,1323195638310469632,2021-04-01
+PhraAthit,-1,-1,['facial paralysis'],['facial paralysis'],1377518836421951488,53868814,2021-04-01
+SusanElkinJourn,-1,-1,[],"[""n't""]",1377518906479407105,66661941,2021-04-01
+gracehwang1970,0,0,['Skin rash'],['rash'],1377523105325707269,712199546638508032,2021-04-01
+cassie_kiz,-1,-1,['arm hurt'],['arm hurt'],1388311898987417601,431241233,2021-05-01
+Marmas110189,1,-1,"['flu shot reaction', 'sick', 'Headache', 'dead tired', 'sore body', 'fever', 'sore throat', 'earache', 'fuzzy brain']","['fuzzy brain', 'sick', 'sore throat', 'sore body', 'fever', 'dead tired', 'earache', 'Headache']",1388313369363369984,974846751235428353,2021-05-01
+DechennePepper,1,1,['arm is extremely sore'],"['sore', 'arm is']",1388316421021519873,1375710183742074881,2021-05-01
+JassiKhangura,-1,-1,[],['shenanigans'],1388318466369798146,110045404,2021-05-01
+Patricia0192837,0,-1,"['Covid Arm', 'rash']","['bug', 'rash', 'itch']",1388321147629019140,834805295700389890,2021-05-01
+andreaboo_ss,1,1,[],"['body aches', 'feverish']",1399589818091282434,1365442843074908161,2021-06-01
+lelayozlacab,-1,0,['gaining weight'],['gaining weight'],1399592868356902913,1025971193709441024,2021-06-01
+Capt_DavisLouis,0,0,[],['Allergic'],1399593765828845571,102297236,2021-06-01
+girlyswotspider,1,1,"['covid arm', 'hallucinogenic dreams']",['hallucinogenic dreams'],1399598801783070726,747375639708180480,2021-06-01
+GraffitiExpert,-1,-1,['heart inflammation'],"['gaslighted', 'been', 'heart inflammation']",1410433435831726082,300616187,2021-07-01
+bytebot,-1,-1,[],"['greased the', 'palms']",1410435520539234306,1413771,2021-07-01
+ChrisLancashir3,-1,-1,[],['confusion'],1410438110437994501,4534461314,2021-07-01
+Yadda1111,0,0,[],['reaction'],1410439392724852743,476825981,2021-07-01
+Janet76092993,0,0,['clotting'],['clotting'],1410439470382424064,1347058895416561666,2021-07-01
+AwakenedAussie,-1,-1,[],"['dingaling', 'murdering']",1421657109687541765,1045325664709009408,2021-08-01
+sonnlich,1,-1,['blood clots'],['clots'],1421659276347461632,14130672,2021-08-01
+fadouagh,0,0,[],['symtomps'],1421660638003089414,43486251,2021-08-01
+MizzyII,-1,-1,[],"['suppress', 'immune system']",1421664012480049153,814312202,2021-08-01
+SteveL202,-1,-1,[],['death'],1421665205923287042,616996381,2021-08-01
+CryptCommunique,-1,-1,[],['hoodwinked'],1432895446200975365,1267726056804347909,2021-09-01
+mgcroteau,1,0,[],"['high BP', 'asthma', 'cold']",1432897980248563712,25485527,2021-09-01
+equanimity500,-1,-1,['blood clots'],['clots'],1432901506907267076,1112728874670931969,2021-09-01
+AzucenaCToronjo,-1,0,[],['shifting'],1432904804406235136,2271203582,2021-09-01
+albertinho,-1,-1,[],['hesitancy'],1432905013437747203,18934316,2021-09-01
 Breakingviews,0,0,['jitters'],['jitters'],1337476352224727047,12794362,2020-12-11
 BrusselsTimes,0,0,[],[],1337431053900914699,2807267941,2020-12-11
 LuzanoB,0,1,[],[],1337431149354749952,1899275323,2020-12-11
@@ -799,3 +899,103 @@ totallyfearless,1,1,[],[],1430917523642462209,1584352400,2021-08-26
 tsyiblkhealth,0,0,[],[],1432021957571186693,1260346784892817409,2021-08-29
 reofiras,0,0,[],[],1425705494535020546,599875685,2021-08-12
 DerechoEspana,0,0,[],[],1434783619806076929,1001477584671133696,2021-09-06
+Ek3mini,0,-1,[],['amputated limbs'],1337652867319160832,1200138018700582912,2020-12-12
+KempeSuave,-1,-1,[],['of'],1337685267486887936,1331295904406638605,2020-12-12
+roslynheightsny,0,-1,"[""Bell's Palsy""]",['Palsy'],1337784756289802248,4692838782,2020-12-12
+cindy_tgl,1,1,['soreness'],['soreness'],1344847478764359681,90289583,2021-01-01
+torrHL,0,0,[],['Bumpy'],1344854266284920833,25912403,2021-01-01
+TimBuck24659440,-1,-1,[],['bounties'],1344857143737012225,4659957563,2021-01-01
+theAAAshton,1,0,['urge to ralph'],"['ralph basically all day', 'urge to']",1344859118071406594,1227104262678814730,2021-01-01
+Lilac0071,0,-1,[],['pandemic'],1344862061147381761,1198800884584665095,2021-01-01
+Vesemirr,0,1,[],['spreader'],1356061357062414336,552738654,2021-02-01
+hg11768,1,0,['made me feel worse'],"['knee joints', 'legs']",1356065122670833664,2767774343,2021-02-01
+heyycristel,-1,-1,"['bump', 'red mark', 'bump with a red circle']",['bump'],1356070246608744449,25212132,2021-02-01
+JillKem42480925,0,-1,[],['Conflicted'],1356071960833183745,1283469685602660353,2021-02-01
+Eriic88,-1,-1,['feel like I did bear crawls up a mile long hill'],['like I did bear crawls up a mile long hill'],1366217200298831875,2396744959,2021-03-01
+JadeoradeWx,1,1,['slight arm pain'],['arm pain'],1366218046705123328,2612719319,2021-03-01
+VNgwena1,1,1,[],['jab'],1366218857657032708,1305017231257022465,2021-03-01
+vishalmisra,1,0,"['fever', 'body ache', 'burning eyes']","['burning eyes', 'body ache', 'fever']",1366220292520034306,48681409,2021-03-01
+welosthim,-1,-1,[],['allergic reaction'],1366231984020754435,92928883,2021-03-01
+ricklevy67,-1,-1,[],"['womanizing', 'sexist']",1366234312484392960,927388044,2021-03-01
+AngelaKorras,-1,-1,[],['Can’t even deliver sandwiches'],1366237742355550214,78787098,2021-03-01
+OhHeyItsMarkie,1,1,['arm just feels like I got decked repeatedly in it'],"['feels like I got decked repeatedly in it', 'arm just']",1377467673471238146,51205938,2021-04-01
+niSE7EN,0,-1,[],"['symptoms', 'asymptotic', 'allergies']",1377468306366590978,52950730,2021-04-01
+benjami41627049,0,0,['slight pain on my shoulder'],"['pain on', 'shoulder']",1377475076803690497,1093856858555801600,2021-04-01
+cove19818289,0,-1,[],['nervous'],1377477850215772162,1339468845644320769,2021-04-01
+broomsticknpen,1,0,[],"[""n't""]",1377478966760497152,1054986820117782529,2021-04-01
+PS641600,0,0,[],['Blinkers'],1377480492245729282,224811364,2021-04-01
+Toronto99News,-1,-1,['PAINFUL RED RASH'],"['ERUPTS', 'RED RASH']",1377495717179183104,1281444581473751041,2021-04-01
+WinchesterIzak,-1,-1,"['wrecked me', 'sick', 'feel like garbage']","['feel like garbage', 'wrecked', 'sick']",1377496208852279296,1150525857137659904,2021-04-01
+BigAlMercury,-1,-1,['blood clots'],['reaction'],1377498484308373505,1297051342033301504,2021-04-01
+FOX10Phoenix,0,0,[],['disrupted the'],1388302172622888962,18999261,2021-05-01
+vaxreactions,-1,-1,[],['insanity'],1388304723619557377,1192880713764364295,2021-05-01
+WooPinkNews,0,0,[],['Immune Response'],1388306919186567168,1225918667537440769,2021-05-01
+hannahmarieelee,0,-1,"['body aches', 'fever', 'headache']","['body aches', 'fever', 'headache']",1388306983648903168,2825579266,2021-05-01
+JynxedJezza,0,-1,"['sore arm', 'felt fatigued', 'Super sore arm', 'fatigue f']","['fatigue f', 'fatigued', 'sore arm']",1388309273441038336,879079692,2021-05-01
+ZenCde,-1,-1,[],['on dreams'],1399566227736043521,1289141402794958850,2021-06-01
+2ndNewMoon,-1,-1,['clots'],['clots'],1399571506062110723,248014091,2021-06-01
+TheBlondePI,1,1,['tired'],['tired'],1399572221454999558,744048715,2021-06-01
+purwar24,-1,-1,[],['vaccinating'],1399580652161273864,191153599,2021-06-01
+JoanHea24644923,-1,0,"['lost 30 pounds', 'failure to eat']","['failure to eat', 'lost 30 pounds']",1399585074224406532,1318628205767532544,2021-06-01
+MadameFarha,1,1,"['felt like my arm was burning inside', 'sore arm']","['arm was burning inside', 'sore arm', 'my']",1410413638737747972,1309269527742431232,2021-07-01
+Yuipmon,0,-1,[],['funny'],1410422498622115840,3064580344,2021-07-01
+jenggaroo333,0,-1,[],['sick'],1410422907566657538,720534881097420803,2021-07-01
+InQldMedia,-1,-1,[],['anxieties'],1410425424094515210,1222332782543638528,2021-07-01
+almayoftherock,1,1,[],"['skin', 'glowy']",1410429795284910083,31548833,2021-07-01
+Phoenix_Molo,-1,-1,[],"['stupid', 'be out in the']",1421647121107718145,2719642183,2021-08-01
+TrishCooper14,-1,-1,[],['killed'],1421649356013383685,932270481473986562,2021-08-01
+KidCreole3,0,0,[],['vains'],1421650165027549186,1260252311579836421,2021-08-01
+Bobby1227,-1,-1,[],['Killed'],1421652615310495749,240622169,2021-08-01
+JoseGut86446190,1,0,[],['Death&amp;Hell'],1421653935740313603,939752019736264706,2021-08-01
+lu_casgimenez,-1,-1,[],['depressed'],1421654345414807558,1220762528793485317,2021-08-01
+billgray52,-1,-1,"['blood clots', 'swelling of the brain']","['clots', 'swelling of', 'brain']",1432874650485366786,1258350955,2021-09-01
+SarahOkeson,0,0,[],['Stumbles'],1337798106642075650,15368854,2020-12-12
+AwareAnon,-1,-1,['transverse myelitis'],['transverse myelitis'],1337835989692104704,1013472266783469568,2020-12-12
+elimeliandme,-1,-1,['allergic side effect'],['allergic'],1337858199140118533,1276296689771577346,2020-12-12
+luvjuan,-1,0,['Bell’s Palsy'],['Bell’s Palsy'],1344918465916915713,186886192,2021-01-01
+7spud,-1,-1,[],['dithering'],1344941130832633857,299639530,2021-01-01
+RainbowLuciferX,-1,-1,[],['deprioritised'],1344946753783681029,2442731846,2021-01-01
+coldtusker,-1,-1,[],['Googling'],1344950950604271616,18718676,2021-01-01
+Duffycaramole,-1,0,[],['breaching'],1344959707023351809,1106222598319497217,2021-01-01
+TonyEquality,-1,-1,[],"['a', 'from seeing', 'shield', 'is', 'flat', 'the']",1356091895693389824,607930815,2021-02-01
+sophieyakno_,-1,-1,"['swollen lymph nodes', 'chills', 'headache', 'fever', 'FATIGUE', 'body aches', 'and pain', 'sore arm', 'swollen tonsils', 'sinus pressure', 'chest pain']","['and pain', 'fever', 'FATIGUE', 'sinus pressure', 'swollen lymph nodes', 'chest pain', 'headache', 'chills', 'swollen tonsils', 'body aches']",1356094921145376768,2181427466,2021-02-01
+5_2blue,-1,-1,[],"['shield', 'a', 'is', 'from seeing God']",1356101483499040768,110790607,2021-02-01
+FulhamTokyo,0,0,[],['ineffective'],1356104124102631425,19755486,2021-02-01
+TweetsFromMyMo2,-1,-1,[],['slowest'],1366258734272368641,1152977022068465664,2021-03-01
+philstarlife,0,0,[],['jabs'],1366263291652173834,738176980458184704,2021-03-01
+PulbuRonn,0,-1,['allergic reactions'],['allergic reactions'],1366267723613839362,907369555797749760,2021-03-01
+heyalysa,1,1,"['chills', 'headache', 'tiredness', 'nausea']","['nausea', 'tiredness,&amp', 'chills', 'headache']",1366269279381950467,394183707,2021-03-01
+COVID_Papers,0,0,"['Allergic reactions', 'anaphylaxis']","['Allergic reactions', 'anaphylaxis']",1366277973054287873,1239643988707160064,2021-03-01
+COVID_Papers,0,0,"['Allergic reactions', 'anaphylaxis']",['Allergic reactions'],1366277977567297537,1239643988707160064,2021-03-01
+tester21110549,1,0,['reaction'],['reaction'],1366285152859660291,1154705230719803392,2021-03-01
+Dharma2X,0,-1,['agonizing rash'],"['agonizing', 'rash']",1377532385118457860,1090510399324090369,2021-04-01
+A_J_1_9_8_5,-1,0,['agonising rash'],"['agonising', 'rash', 'arm erupts in']",1377534621538222080,305117768,2021-04-01
+gregfoley2002,1,0,[],"['immune system', 'dampened down']",1377536382135062530,975290890917998592,2021-04-01
+Ph_Towncrier,-1,-1,['agonizing rash'],['rash'],1377539753302720512,1311989063906471938,2021-04-01
+TALKIE53557112,-1,-1,['agonizing rash'],['rash'],1377540546525270017,1377339272093650955,2021-04-01
+AndrewzCooper,0,0,['clotting'],['clotting'],1377542259621650433,2831591,2021-04-01
+LocalBusPod,-1,-1,[],['doubts'],1377542392971030529,924708494930046976,2021-04-01
+raza_ali21,1,1,['arm is sore'],"['arm', 'sore']",1377549466471923712,3890745616,2021-04-01
+SamanthaSAS,-1,-1,['clots'],['clots'],1377555737820467202,30116368,2021-04-01
+Rebeldiletante,-1,-1,[],['cannibalized'],1388322691338358784,4260221596,2021-05-01
+brandidoeslife,-1,-1,"['fibro pain', 'feeling Not Great']","['fibro pain', 'feeling Not Great']",1388324482629128192,2594141755,2021-05-01
+peterwr77,0,-1,"['faint', 'dizzy']","['faint', 'dizzy']",1388329470411554817,316905777,2021-05-01
+planetSarsfield,-1,-1,[],['tainting'],1388333135927074816,139215865,2021-05-01
+Hello_Vanado,0,0,['urinary retention'],['urinary retention'],1388338751559151619,995647567575900160,2021-05-01
+BeattieJulie,-1,-1,[],['n’t'],1399600830643261440,397195714,2021-06-01
+Lels_,1,1,[],['#Oily'],1399603012679655426,142260869,2021-06-01
+Byron_Shaw,1,0,[],"['Headache', 'soreness']",1399607813916135429,292773890,2021-06-01
+Dave50Mackay,-1,-1,[],"['choosy', 'hypocrite']",1399608820016558087,1382419170420199426,2021-06-01
+SophieFelton,1,0,"['tiredness', 'early period']",['tiredness'],1399624101887610881,22400544,2021-06-01
+southernlady111,-1,-1,['death'],['depopulate the earth'],1410440484611366912,3397576972,2021-07-01
+Inmygarden1,-1,-1,['shingles'],['shingles'],1410448722941530113,1235472625448542208,2021-07-01
+US4MF,-1,-1,"['unable to walk', 'needs a long-term feeding tube', 'severe memory loss', 'extreme nerve pain']","['unable to walk', 'nerve pain']",1410449912752377857,1178143400190791680,2021-07-01
+AfifPetros,0,0,[],['hesitancy'],1410451861467893769,2220160556,2021-07-01
+Leentje_Faraway,0,-1,['capillary leak syndrome'],['capillary'],1410453221798203393,841460044327718912,2021-07-01
+AnnieCa69232984,0,-1,['capillary leak syndrome'],['capillary leak'],1421666527179276288,1331179113554407425,2021-08-01
+ben_jamin_86,-1,-1,"['weakness', ""can't lift arms"", 'fever', ""can't sleep"", 'pain', 'unrest', 'body on fire']","[""can't sleep"", 'pain', 'weakness', ""can't lift arms""]",1421666954738380801,176405067,2021-08-01
+t_town_918,-1,-1,[],['seizures'],1421672098406277121,770101438987001856,2021-08-01
+Olgachristie,-1,-1,[],['Stinks'],1421683051428470786,20316349,2021-08-01
+CrystalRustad,-1,-1,"['deaths', 'blood clots']",['clots'],1421684644286668805,338490114,2021-08-01
+SteveZdravsti,1,0,[],['Measles'],1421685806696071172,1420994283935395842,2021-08-01
+Andy8671025,-1,-1,[],"['fallacy', 'contagious']",1432903386756620299,761342858146095104,2021-09-01
