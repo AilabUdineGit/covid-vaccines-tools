@@ -65,10 +65,15 @@ model/ML4H_blind_smm4h_BERT_CRF/pytorch_model.bin
     
 
 
-Our collected and processed data can be found in `full_db.pkl` (and in the human-readable copy `full_db.csv`).
+Our collected and processed data can be found in `data/yyyy-mm.csv` (one file for each month).
 Data collection is still in progress and the data in the repository will be updated regularly.
 
-Format
+_**The previous files `full_db.csv` and `full_db.pkl` contain the same data and will be removed shortly, as the monthly uploads are easier to maintain.**_
+
+The repository also includes a subset of 1000 tweets which have been manually annotated for sentiment and adverse events.
+The annotated data can be found in `data/subset_1000.csv` and `data/subset_1000.pkl`.
+
+Format of the collected data
     
     +-----------------+----------------------------------------------------------------------------
     | column name     | content 
@@ -101,11 +106,36 @@ Format
     |                 |              'norm_eng': 'myelitis',
     |                 |              'full_ita': 'mielite'}
     |                 |          }]
+    | user_id         | str, unique user identifier
+    | ym              | str, year and month of creation of the tweet, format "yyyy-mm"
     +-----------------+----------------------------------------------------------------------------
 
-    
+Format of the annotated data
 
+    +-----------------+----------------------------------------------------------------------------
+    | column name     | content 
+    +-----------------+----------------------------------------------------------------------------
+    | user_name       | str, user name
+    | sentiment_gold  | int, possible values: -1, 0, 1, sentiment determined by human annotators
+    | sentiment_pred  | int, possible values: -1, 0, 1, sentiment determined by the sentiment module
+    | entities_gold   | list of str, entities extracted by human annotators
+    | entities_pred   | list of str, entities extracted by the symptom extraction module
+    | tweet_id        | str, tweet identifier
+    | user_id         | str, unique user identifier
+    | created_at      | str, date of creation of the tweet, format "yyyy-mm-dd"
+    | gold_int        | list of tuples, recording the character-level position of the strings
+    |                 | in entities_gold. Tuples have the format (start_char, end_char, ent_type)
+    |                 | example [(74, 92, 'ADE'), (224, 243, 'ADE')]
+    | pred_int        | list of tuples, recording the character-level position of the strings in 
+    |                 | in entities_pred. Tuples have the format (start_char, end_char, ent_type)
+    |                 | example [(74, 92, 'ADE'), (224, 243, 'ADE')]
+    | text            | str, text of the tweet
+    |                 | the text has been redacted, repleacing all characters with "-" unless they
+    |                 | are part of a gold/pred entity. This text can be used as is to reproduce
+    |                 | the results in the paper, or can replaced with the actual text of the tweets
+    +-----------------+----------------------------------------------------------------------------
 
+All results and plots can be reproduced using the scripts in `plots`.
 
 
 ## How to run on your own
